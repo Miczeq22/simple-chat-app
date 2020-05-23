@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
+    "http": "0.0.1-security",
     "socket.io": "^2.3.0",
     "ts-node": "^8.5.2",
     "typescript": "^3.9.3"
