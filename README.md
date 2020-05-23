@@ -11,7 +11,7 @@ Example app written for article purpose:
 
 ## Heroku App
 
-https://obscure-tor-99539.herokuapp.com/
+https://simple-chat-app-diddo.herokuapp.com/
 
 ## Contributions
 
