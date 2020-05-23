@@ -15,4 +15,4 @@ https://peaceful-beach-77117.herokuapp.com/
 
 ## Errors
 
-Heroku isn't installing dependencies from package.json
+Heroku isn't binding to port 3000 and it's timing out. Maybe a type script problem. Because my other node apps don't have this problem.
