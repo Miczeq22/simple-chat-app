@@ -13,6 +13,10 @@ Example app written for article purpose:
 
 https://obscure-tor-99539.herokuapp.com/
 
-## Errors
+## Contributions
 
-Heroku isn't binding to port 3000 and it's timing out. Maybe a type script problem. Because my other node apps don't have this problem.
+Please feel free to contribute. We have a list of issues in the tab above.
+
+## License
+
+MIT
