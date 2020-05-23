@@ -11,7 +11,7 @@ Example app written for article purpose:
 
 ## Heroku App
 
-https://peaceful-beach-77117.herokuapp.com/
+https://obscure-tor-99539.herokuapp.com/
 
 ## Errors
 
