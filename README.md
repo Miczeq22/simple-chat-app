@@ -8,3 +8,11 @@ Example app written for article purpose:
 ```npm install```
 
 ```npm run dev```
+
+## Heroku App
+
+https://peaceful-beach-77117.herokuapp.com/
+
+## Errors
+
+Heroku isn't installing dependencies from package.json
